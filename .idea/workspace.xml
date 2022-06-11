@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1620fed-32df-4b0d-a52e-69e6baadfc9e" name="Changes" comment="binary_search.py file created&#10;binary search algorithm added">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimum_step.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Learning Python/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Python/basic.py" afterDir="false" />
     </list>
@@ -44,6 +46,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/aamirkalimi/Desktop/Playground/GFG/dsa-python-gfg",
     "nodejs_package_manager_path": "npm",
@@ -62,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654543039290</updated>
       <workItem from="1654543041788" duration="1561000" />
-      <workItem from="1654917259255" duration="672000" />
+      <workItem from="1654917259255" duration="4408000" />
     </task>
     <task id="LOCAL-00001" summary="binary_search.py file created&#10;binary search algorithm added">
       <created>1654544437660</created>
