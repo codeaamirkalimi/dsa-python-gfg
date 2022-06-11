@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1620fed-32df-4b0d-a52e-69e6baadfc9e" name="Changes" comment="binary_search.py file created&#10;binary search algorithm added" />
+    <list default="true" id="c1620fed-32df-4b0d-a52e-69e6baadfc9e" name="Changes" comment="binary_search.py file created&#10;binary search algorithm added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning Python/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Python/basic.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,11 +45,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/aamirkalimi/Desktop/Playground/GFG/python/Arrays",
+    "last_opened_file_path": "/Users/aamirkalimi/Desktop/Playground/GFG/dsa-python-gfg",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654543039290</updated>
       <workItem from="1654543041788" duration="1561000" />
+      <workItem from="1654917259255" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="binary_search.py file created&#10;binary search algorithm added">
       <created>1654544437660</created>
